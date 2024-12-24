@@ -1,6 +1,6 @@
 # Group-Counterfactuals-in-the-prediction-and-recovery-of-students-at-risk-of-academic-failure
 
-Codebase for my paper based on the generation of Group Counterfactual Explanations using clusterization methods.
+Codebase for my paper based on the generation of Group Counterfactual Explanations using clusterization methods and focused on the field of academic dropout.
 
 # Requirements
   - Python 3.9 or Python 3.10
